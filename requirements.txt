@@ -1,0 +1,9 @@
+streamlit 
+transformers 
+torch 
+requests 
+pandas 
+matplotlib 
+plotly 
+wordcloud 
+pillow
